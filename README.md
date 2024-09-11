@@ -30,7 +30,7 @@ This is the frontend of the application, built with React, Vite, and styled usin
 
 ## Installation
 
-1. Clone the repository:https://github.com/cristiancavelasquez/AI-tools-Frontend
+1. Clone the repository : https://github.com/cristiancavelasquez/AI-tools-Frontend
 2. npm i
 3. create your .env file based on the .env template
-4. npm run start:dev
+4. npm run dev
